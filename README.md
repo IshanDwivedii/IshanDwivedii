@@ -45,21 +45,13 @@ Netflix Streaming Engine · Uber Ride Matching · WhatsApp Messaging System
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshanDwivedii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanDwivedii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://ishancodes.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ishandwivedii" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ishan.dwivedii@example.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[[https://ishancodes.me](https://takerprogod.netlify.app/)](https://takerprogod.netlify.app/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[[https://www.linkedin.com/in/ishandwivedii](https://www.linkedin.com/in/ishan-dwivedi-498a791bb/)](https://www.linkedin.com/in/ishan-dwivedi-498a791bb/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dwivediishan75@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
