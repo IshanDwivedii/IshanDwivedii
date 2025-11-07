@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Ishan Dwivedi</h1>
+<h1 align="left"> Hi, I'm Ishan Dwivedi 🚀 </h1>
 
-<p align="center">
+<p align="left">
   <b>Software Engineer | Backend Developer | Data Engineering Enthusiast</b><br>
   Passionate about designing distributed systems, building scalable backends, and automating data pipelines.
 </p>
