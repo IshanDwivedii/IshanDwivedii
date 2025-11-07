@@ -56,6 +56,4 @@ Netflix Streaming Engine · Uber Ride Matching · WhatsApp Messaging System
 
 ---
 
-<p align="center">
-  <i>"Striving to architect systems that are scalable, secure, and a little bit beautiful."</i> 🌌
-</p>
+
