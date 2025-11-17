@@ -41,7 +41,7 @@
 - **Low-Level Design (LLD)** → OOP modeling, design patterns, microservices communication  
 
 📘 *Recent Designs:*  
-Netflix Streaming Engine · Uber Ride Matching · WhatsApp Messaging System  
+Scalable Video Streaming Engine · Granola-Ai (Fine Tuned) · ETL (Distributed) Frameworks  
 
 ---
 
